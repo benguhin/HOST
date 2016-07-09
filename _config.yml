@@ -37,9 +37,9 @@ navigation:
 - text: Example Page
   url: example_page/
   internal: true
-# - text: Another Page
-#   url: these are linked in the _config.yml file
-#   internal: false
+- text: Another Page
+  url: these are linked in the _config.yml file
+  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
