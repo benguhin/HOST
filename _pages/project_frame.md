@@ -1,4 +1,4 @@
-#Framing the Project
+#Framing the HOST Pilot
 ##Searching for Balance
 Navigating between public safety and social service delivery concerns can be challenging. Public safety and criminal justice officials must address public safety concerns and intervene to stop criminal activity. Social service providers solve for the underlying problems and help unsheltered individuals regain housing, obtain employment, or access needed treatment and services. These service providers witness how “when we severely punish people for minor drug possession or for assault charges related to mental health decompensation, or when we fail to adequately assist people leaving jails or prisons to obtain housing, services, and employment, we contribute to and worsen the problem of homelessness" [Source: U.S. Interagency Council on Homelessness]( https://www.usich.gov/solutions/criminal-justice/).
 
