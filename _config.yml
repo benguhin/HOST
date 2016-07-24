@@ -39,7 +39,7 @@ navigation:
   internal: true
 - text: Framing the HOST Pilot
   url:  /pilot_frame
-  internal: false
+  internal: true
 # - text: Another Page
 #   url: these are linked in the _config.yml file
 #   internal: false
