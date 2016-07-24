@@ -35,7 +35,7 @@ navigation:
   url: ./
   internal: true
 - text: Foundation of the HOST Initiative
-  url: _pages/foundation.md
+  url:  HOST/_pages/foundation.md 
   internal: true
 # - text: Another Page
 #   url: these are linked in the _config.yml file
