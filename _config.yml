@@ -38,7 +38,7 @@ navigation:
   url:  /foundation
   internal: true
 - text: Framing the Project
-  url: /project_frame
+  url:  /project_frame
   internal: true
 # - text: Another Page
 #   url: these are linked in the _config.yml file
