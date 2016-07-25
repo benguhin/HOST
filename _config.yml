@@ -46,6 +46,9 @@ navigation:
 - text: How Host Fits In
   url: how_host_fits_in
   internal: true 
+- text: Designing HOST
+  url: designing_host
+  internal: true
 # - text: Another Page
 #   url: these are linked in the _config.yml file
 #   internal: false
